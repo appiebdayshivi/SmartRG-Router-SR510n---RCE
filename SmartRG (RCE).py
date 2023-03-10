@@ -1,7 +1,4 @@
-# Exploit Title: SmartRG Router SR510n 2.6.13 - RCE (Remote Code Execution)
-# Date: 13/06/2022
-# Exploit Author: Yerodin Richards
-# Vendor Homepage: https://adtran.com
+# SmartRG Router SR510n 2.6.13 - RCE (Remote Code Execution)
 # Version: 2.5.15 / 2.6.13 (confirmed)
 # Tested on: SR506n (2.5.15) & SR510n (2.6.13)
 # CVE : CVE-2022-37661
